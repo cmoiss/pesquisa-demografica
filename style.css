@@ -13,6 +13,7 @@ p {
 form {
     min-height: 20vh;
     height: auto;
+    max-width: 700px;
     margin: auto 25%;
     background-color: #1b1b32ef;
 }
