@@ -25,3 +25,11 @@ label {
     margin: 8px 0;
     display: block;
 }
+
+.inline-label {
+    display: inline-block;
+}
+
+.gender-group {
+    display: block;
+}
