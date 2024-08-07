@@ -12,9 +12,8 @@ p {
 
 form {
     min-height: 20vh;
-    max-height: 79vh;
-    height: 50vh;
-    margin: 50%, 0;
+    height: auto;
+    margin: auto 25%;
     background-color: #1b1b32ef;
 }
 
