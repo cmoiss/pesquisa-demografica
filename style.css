@@ -30,6 +30,6 @@ label {
     display: inline-block;
 }
 
-.gender-group, .hobbies-group {
+.gender-group, .hobbies-group, .hear-about-group {
     display: block;
 }
