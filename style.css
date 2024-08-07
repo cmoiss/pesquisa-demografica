@@ -17,3 +17,12 @@ form {
     margin: 50%, 0;
     background-color: #1b1b32ef;
 }
+
+.form-group {
+    margin: 0 0 15px;
+}
+
+label {
+    margin: 8px 0;
+    display: block;
+}
