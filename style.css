@@ -34,3 +34,7 @@ label {
 .gender-group, .hobbies-group, .hear-about-group {
     display: block;
 }
+
+#number {
+    width: 200px;
+}
