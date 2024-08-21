@@ -1,0 +1,20 @@
+{
+  "name": "pesquisa-demografica",
+  "version": "1.0.0",
+  "description": "Este projeto consiste em um formulário de survey demográfico que coleta informações sobre os usuários, incluindo idade, gênero, ocupação, nível de educação, renda e interesses. O objetivo é entender melhor as características e preferências dos usuários para melhorar a experiência do usuário e desenvolver estratégias mais eficazes.    O formulário é composto por duas seções: informações demográficas e interesses e comportamentos. A seção de informações demográficas inclui perguntas sobre idade, gênero, ocupação, nível de educação e renda. A seção de interesses e comportamentos inclui perguntas sobre hobbies, como os usuários descobriram o site ou aplicativo e com que frequência o utilizam.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmoiss/pesquisa-demografica.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmoiss/pesquisa-demografica/issues"
+  },
+  "homepage": "https://github.com/cmoiss/pesquisa-demografica#readme"
+}
